@@ -68,11 +68,13 @@ cd chatbot-manager
 npm install
 # ou
 yarn install
-```pro
+```
+
 ## 3. Configure o backend (API) Projeto backend e documentação no link a baixo
+```bash
 ⚠️ A API deve estar rodando em: https://localhost:7076
 Verifique se os endpoints /api/Chatbot e /api/Mensagem/{id} estão disponíveis.
-
+```
 Inicie o frontend:
 
 ```bash
