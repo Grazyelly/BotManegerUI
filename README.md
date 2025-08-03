@@ -72,6 +72,7 @@ yarn install
 
 ## 3. Configure o backend (API) Projeto backend e documentação no link a baixo
 ```bash
+Link Backend BotManeger -> https://github.com/Grazyelly/BotManegerServer
 ⚠️ A API deve estar rodando em: https://localhost:7076
 Verifique se os endpoints /api/Chatbot e /api/Mensagem/{id} estão disponíveis.
 ```
