@@ -6,6 +6,7 @@ Gerenciador de múltiplos bots com contexto customizado, construído com React +
 
 ## 📁 Estrutura de Pastas
 
+```bash
 src/
 ├── components/
 │ ├── chatbot/ # Componentes principais do Chatbot
@@ -31,7 +32,7 @@ src/
 ├── App.tsx # Root da aplicação React
 ├── main.tsx # Entry point do React DOM
 └── index.css # Estilos globais
-
+```
 ---
 
 ## 🧠 Como funciona
